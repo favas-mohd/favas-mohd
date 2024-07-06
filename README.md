@@ -1,6 +1,7 @@
-### Hi there 👋, Mohammed Favas CT
-#### I am a Final Year BCA Student | Aspiring Software Developer
-Hi, I am Mohammed Favas CT, a final-year BCA student with a keen interest in software development. I am currently working on innovative projects like an automated attendance system using face recognition and a hostel management system. Passionate about technology, I aim to leverage my skills in Python, php, HTML, CSS, JavaScript, and Java to create impactful solutions.
+(https://github.com/favas-mohd/favas-mohd/blob/main/banner.png)
+### Hi there 👋, I'm Mohammed Favas CT
+####Final Year BCA Student | Aspiring Software Developer
+I'm Mohammed Favas CT, a final-year BCA student with a keen interest in software development. I am currently working on innovative projects like an automated attendance system using face recognition and a hostel management system. Passionate about technology, I aim to leverage my skills in Python, php, HTML, CSS, JavaScript, and Java to create impactful solutions.
 
 Skills: PYTHON / JAVA / PHP / JS / HTML / CSS
 
